@@ -13,4 +13,3 @@ function numDuplicados(palabra){
     }
     return (ocurrencias);
 }
-console.log(numDuplicados("aabcdefghijkaaalmnopqrstuvxyz"));
